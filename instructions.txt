@@ -1,0 +1,7 @@
+Blinking LED
+
+Connect the positive terminal of the LED( the longer one) to Digital Pin 3 
+and the negative terminal to a 330 Ohm resistor then to the ground terminal
+of the board.
+Connect the Board to your computer then upload the code, your LED should now
+be blinking!
